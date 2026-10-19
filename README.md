@@ -6,7 +6,7 @@ The project demonstrates how evaluation records can be transformed into quality 
 
 ## Dashboard Preview
 
-![AI Quality Analytics Dashboard](powerbi/dashboard-preview.png)
+![AI Quality Analytics Dashboard](powerbi/dashboard-preview.png.PNG)
 
 ## Project Objectives
 
